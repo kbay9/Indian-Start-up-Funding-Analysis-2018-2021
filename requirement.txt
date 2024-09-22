@@ -1,0 +1,7 @@
+pyodbc
+python-dotenv
+pandas
+numpy
+regex
+matplotlib
+seaborn
